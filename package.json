@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vrepsaj/chatto.ts.git"
+    "url": "git+https://github.com/axodouble/chatto.ts.git"
   },
-  "homepage": "https://github.com/vrepsaj/chatto.ts#readme",
+  "homepage": "https://github.com/axodouble/chatto.ts#readme",
   "bugs": {
-    "url": "https://github.com/vrepsaj/chatto.ts/issues"
+    "url": "https://github.com/axodouble/chatto.ts/issues"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
